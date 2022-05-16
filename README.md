@@ -10,6 +10,7 @@ Includes the following features...
 - WebpackDevServer
 - Asset Resource Loader
 - Source Maps
+- Jest for Testing
 
 ## Usage
 
